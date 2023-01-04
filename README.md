@@ -1,2 +1,2 @@
-# oms_python
-oms python
+# oms-python
+oms-python
